@@ -17,6 +17,15 @@ public class Circulo {
 		this.radio = radio;
 	}
 
-
+	public double area(int radio) {
+		final double PI=3.1416;
+		return PI*(radio^2);
+		
+	}
+	public double perimetro(int radio) {
+		final double PI=3.1416;
+		return 2*PI*radio;
+		
+	}
 
 }
