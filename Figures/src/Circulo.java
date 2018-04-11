@@ -8,4 +8,15 @@ public class Circulo {
 	}
 
 
+
+	public int getRadio() {
+		return radio;
+	}
+
+	public void setRadio(int radio) {
+		this.radio = radio;
+	}
+
+
+
 }
