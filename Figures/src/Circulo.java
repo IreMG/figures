@@ -1,11 +1,11 @@
 
-public class Círculo {
-	
+public class Circulo {
+
 	private int radio;
 
-	public Círculo(int radi) {
+	public Circulo(int radi) {
 		this.radio = radi;
 	}
-	
+
 
 }
